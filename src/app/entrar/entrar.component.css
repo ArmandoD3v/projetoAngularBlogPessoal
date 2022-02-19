@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url(https://st4.depositphotos.com/20839314/i/600/depositphotos_229509394-stock-photo-notebook-pen-white-background-office.jpg);
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
